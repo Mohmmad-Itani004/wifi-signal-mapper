@@ -16,3 +16,9 @@ A visual heatmap transforms raw numeric RSSI logs into an intuitive map, enablin
 * **Libraries:** pandas, matplotlib, scipy, numpy
 * **Version Control:** Git & GitHub
 * **AI Assistance:** Gemini for structuring specifications and plotting code optimization.
+
+## Milestone 2 Prototype
+- **Requirement Met:** R1 (CSV data loading and validation) & R5 (minimum 20 spatial points).
+- **How to Run:**
+  ```bash
+  python src/mapper.py
